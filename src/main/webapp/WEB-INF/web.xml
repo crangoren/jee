@@ -9,7 +9,7 @@
 
   <servlet>
     <servlet-name>first</servlet-name>
-    <servlet-class>FirstServlet</servlet-class>
+    <servlet-class>Shop</servlet-class>
   </servlet>
 
   <servlet-mapping>
