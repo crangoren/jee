@@ -1,7 +1,7 @@
 public class Product {
-    int id;
-    String name;
-    double cost;
+    private int id;
+    private String name;
+    private double cost;
 
     Product(int id, String name, double cost) {
         this.id = id;
